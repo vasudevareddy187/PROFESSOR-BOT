@@ -8,7 +8,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0
-✯ MAIN CHANNEL : ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/llathu63035>𝗡𝗘𝗪 𝗧𝗘𝗟𝗨𝗚𝗨 𝗠𝗢𝗩𝗜𝗘𝗦</a>"""
+✯ MAIN CHANNEL : <a href=https://t.me/llathu63035>𝗡𝗘𝗪 𝗧𝗘𝗟𝗨𝗚𝗨 𝗠𝗢𝗩𝗜𝗘𝗦</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/llathu63035>𝗡𝗘𝗪 𝗧𝗘𝗟𝗨𝗚𝗨 𝗠𝗢𝗩𝗜𝗘𝗦</a>
